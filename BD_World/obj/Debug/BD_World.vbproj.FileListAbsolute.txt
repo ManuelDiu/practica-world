@@ -1,0 +1,14 @@
+C:\Users\Manuel\source\repos\BD_World\BD_World\bin\Debug\BD_World.exe.config
+C:\Users\Manuel\source\repos\BD_World\BD_World\bin\Debug\BD_World.exe
+C:\Users\Manuel\source\repos\BD_World\BD_World\bin\Debug\BD_World.pdb
+C:\Users\Manuel\source\repos\BD_World\BD_World\bin\Debug\BD_World.xml
+C:\Users\Manuel\source\repos\BD_World\BD_World\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.vbprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.frmWorld.resources
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.Resources.resources
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.vbproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.vbproj.CopyComplete
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.exe
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.xml
+C:\Users\Manuel\source\repos\BD_World\BD_World\obj\Debug\BD_World.pdb
